@@ -1,0 +1,16 @@
+The experiments have been carried out as per VTU requirements.
+Used gpdk180 for simulation
+There are two folders:
+    o Analog - Part A Analog experiments
+    o Digital - Part B Digital experiments
+
+Analog
+ 1. Inverter 
+    o Has two schematics: Inverter and Inverter_tb
+    o Tb simulation states have been saved within the cell view
+    o Parametric contains the simulation specifications for trying wn=wp,wp/2,2wp
+    o As per simulation,wn=1u and wp=3.5u gives best ratioed inverter.
+
+ 2.NAND gate will be simulated with wn/wp=1/4 um
+
+

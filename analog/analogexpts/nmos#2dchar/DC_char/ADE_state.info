@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("my45lib" "nmos-char" "schematic" "spectre")
+descriptionText = "None"

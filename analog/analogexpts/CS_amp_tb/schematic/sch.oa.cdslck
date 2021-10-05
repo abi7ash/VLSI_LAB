@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Sat Oct  2 17:04:27 2021 IST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/user1/Desktop/VLSILAB_2021/VLSI_LAB/analog/analogexpts/inverter/schematic/sch.oa.cdslck
-TimeEditLocked                 Sat Oct  2 17:13:19 2021 IST
+FilePathUsedToEditLock         /home/user1/Desktop/VLSILAB_2021/VLSI_LAB/analog/analogexpts/CS_amp_tb/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Oct  3 17:25:18 2021 IST
