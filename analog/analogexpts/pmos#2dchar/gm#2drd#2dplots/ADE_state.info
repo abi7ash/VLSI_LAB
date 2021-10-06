@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("analogexpts" "pmos-char" "schematic" "spectre")
+descriptionText = "Plot of gm and rd(vds/id) for establishing device Q-points"
