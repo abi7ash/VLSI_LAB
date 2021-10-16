@@ -16,7 +16,7 @@ tmp2 = make_sevVariableStruct()
 tmp2 = (ncons nil)
 )
 tmp2->name = "w"
-tmp2->expression = "3.5u"
+tmp2->expression = "28u"
 tmp2->index = 2
 (unless tmp3
 tmp3 = make_sevVariableStruct()
@@ -25,7 +25,7 @@ tmp3 = make_sevVariableStruct()
 tmp3 = (ncons nil)
 )
 tmp3->name = "vds"
-tmp3->expression = "1"
+tmp3->expression = "2.5"
 tmp3->index = 3
 (unless tmp4
 tmp4 = make_sevVariableStruct()
@@ -34,7 +34,7 @@ tmp4 = make_sevVariableStruct()
 tmp4 = (ncons nil)
 )
 tmp4->name = "vgs"
-tmp4->expression = "1"
+tmp4->expression = "0.73"
 tmp4->index = 4
 list(tmp1 tmp2 tmp3 tmp4)
 )
