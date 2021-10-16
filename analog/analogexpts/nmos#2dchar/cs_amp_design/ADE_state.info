@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("analogexpts" "nmos-char" "schematic" "spectre")
+descriptionText = "None"
