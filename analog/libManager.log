@@ -1,0 +1,24 @@
+\o Program:		@(#)$CDS: libManager version 6.1.7 - CAT35 03/14/2018 00:53 (sjfhw314) $
+\o Sub version:		sub-version  s191 
+\o Arguments:		-unmapped -mpssession virtuoso65523 -mpshost compute-srv1.eda.atme.in 
+\o Working Directory:	compute-srv1.eda.atme.in:/home/user1/Desktop/VLSILAB_2021/VLSI_LAB/analog
+\o 64-bit offsets
+\o Qt version: 		4.8.5
+\o changeWorkingDir("/home/user1/Desktop/VLSILAB_2021/VLSI_LAB/analog") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o Log file is "/home/user1/Desktop/VLSILAB_2021/VLSI_LAB/analog/libManager.log".
+\o Opening libManager window.
+\a nrSetWindowVisibility(cdsLibManager "show")
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a nrSetCurrentWindow(cdsLibManager)
+\w Warning: The directory: '/projects/tigershare/sdadc_working' does not exist
+\w 	but was defined in libFile '/tools/cadence/IC617/share/cdssetup/cds.lib' for Lib 'sdadc_working'.
+\w Warning: The directory: '/projects/tigershare/sdadc_working_lay' does not exist
+\w 	but was defined in libFile '/tools/cadence/IC617/share/cdssetup/cds.lib' for Lib 'sdadc_working_lay'.
+\a nrResizeWindow(cdsLibManager list(-1 27 1360 665))
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\o MPS service: shutdown
+\o libManager is exiting.
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a exit(0)
