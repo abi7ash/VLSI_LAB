@@ -1,0 +1,8 @@
+//
+// File created by:  irun
+// Do not modify this file
+//
+alu_case.v
+alu_if.v
+alu_tb.v
+-gui

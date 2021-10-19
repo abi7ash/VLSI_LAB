@@ -1,0 +1,45 @@
+s1(19Oct2021:08:17:35):  irun alu_case.v alu_if.v alu_tb.v 
+s2(19Oct2021:08:19:53):  irun alu_case.v alu_if.v alu_tb.v 
+s3(19Oct2021:08:20:05):  irun alu_case.v 
+s4(19Oct2021:08:25:12):  irun alu_tb.v 
+s5(19Oct2021:08:27:24):  irun alu_tb.v 
+s6(19Oct2021:08:28:01):  irun alu_tb.v 
+s7(19Oct2021:08:29:15):  irun alu_tb.v 
+s8(19Oct2021:08:29:43):  irun alu_tb.v 
+s9(19Oct2021:08:30:47):  irun alu_tb.v 
+s10(19Oct2021:08:31:10):  irun alu_tb.v 
+s11(19Oct2021:11:29:47):  irun alu_tb.v 
+s12(19Oct2021:11:32:04):  irun alu_tb.v 
+s13(19Oct2021:11:33:12):  irun alu_tb.v 
+s14(19Oct2021:11:36:20):  irun alu_tb.v 
+s15(19Oct2021:11:37:52):  irun alu_tb.v 
+s16(19Oct2021:11:38:40):  irun alu_tb.v 
+s17(19Oct2021:11:41:21):  irun alu_tb.v 
+s18(19Oct2021:11:43:51):  irun alu_tb.v 
+s19(19Oct2021:11:48:28):  irun alu_tb.v 
+s20(19Oct2021:11:48:52):  irun alu_tb.v 
+s21(19Oct2021:11:49:30):  irun alu_tb.v 
+s22(19Oct2021:11:50:34):  irun alu_tb.v 
+s23(19Oct2021:11:57:19):  irun alu_tb.v 
+s24(19Oct2021:12:30:56):  irun alu_tb.v 
+s25(19Oct2021:12:33:20):  irun alu_tb.v 
+s26(19Oct2021:12:35:53):  irun alu_tb.v 
+s27(19Oct2021:12:39:45):  irun alu_tb.v 
+s28(19Oct2021:12:40:36):  irun alu_tb.v 
+s29(19Oct2021:12:42:11):  irun alu_tb.v 
+s30(19Oct2021:12:53:17):  irun alu_tb.v 
+s31(19Oct2021:12:54:59):  irun alu_tb.v 
+s32(19Oct2021:12:58:27):  irun -gui 
+s33(19Oct2021:12:59:08):  irun alu_case.v alu_if.v alu_tb.v 
+s34(19Oct2021:12:59:46):  irun alu_case.v alu_if.v alu_tb.v 
+s35(19Oct2021:13:00:33):  irun alu_case.v alu_if.v alu_tb.v 
+s36(19Oct2021:13:01:02):  irun alu_case.v alu_if.v alu_tb.v 
+s37(19Oct2021:13:01:25):  irun --helpall 
+s38(19Oct2021:13:01:30):  irun --help 
+s39(19Oct2021:13:01:59):  irun -gui alu_case.v alu_if.v alu_tb.v 
+s40(19Oct2021:13:10:24):  irun alu_case.v alu_if.v alu_tb.v 
+s41(19Oct2021:13:11:46):  irun alu_case.v alu_if.v alu_tb.v 
+s42(19Oct2021:13:12:30):  irun alu_case.v alu_if.v alu_tb.v 
+s43(19Oct2021:13:12:59):  irun alu_case.v alu_if.v alu_tb.v 
+s44(19Oct2021:13:13:21):  irun alu_case.v alu_if.v alu_tb.v 
+s45(19Oct2021:13:13:33):  irun alu_case.v alu_if.v alu_tb.v -gui 
