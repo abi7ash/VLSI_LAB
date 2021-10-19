@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      LAB
+HostName                       localhost
+ProcessIdentifier              19206
+ProcessCreationTime_UTC        1634571581
+ProcessCreationTime_Readable   Mon Oct 18 21:09:41 2021 IST
+AppIdentifier                  /cadence_tools/IC615ISR_lnx86/tools.lnx86/dfII/bin/32bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/LAB/Desktop/cadence_db_FOUNDRY/ANALOG/Abhi_Solutions2021/op#2damp/constraint/prop.cfg
+TimeEditLocked                 Mon Oct 18 21:16:46 2021 IST

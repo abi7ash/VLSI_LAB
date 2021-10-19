@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      LAB
+HostName                       localhost
+ProcessIdentifier              12199
+ProcessCreationTime_UTC        1634562427
+ProcessCreationTime_Readable   Mon Oct 18 18:37:07 2021 IST
+AppIdentifier                  /cadence_tools/IC615ISR_lnx86/tools.lnx86/dfII/bin/32bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/LAB/Desktop/cadence_db_FOUNDRY/ANALOG/Abhi_Solutions2021/Diff_amplifier/physConfig_3/physExpand.cfg
+TimeEditLocked                 Mon Oct 18 20:55:38 2021 IST
