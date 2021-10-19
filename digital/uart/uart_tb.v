@@ -3,8 +3,8 @@
 // It then exercises the receive by receiving byte 0x3F
 `timescale 1ns/10ps
  
-`include "uart_tx.v"
-`include "uart_rx.v"
+//`include "uart_tx.v"
+//`include "uart_rx.v"
  
 module uart_tb ();
  
@@ -90,10 +90,15 @@ module uart_tb ();
              
       // Check that the correct command was received
       if (w_Rx_Byte == 8'h3F)
+      begin
         $display("Test Passed - Correct Byte Received");
+        $finish;
+        end
       else
+      begin
         $display("Test Failed - Incorrect Byte Received");
-       
+        $finish;
+      end 
     end
    
 endmodule

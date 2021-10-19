@@ -1,0 +1,42 @@
+irun(64): 15.20-s051: (c) Copyright 1995-2018 Cadence Design Systems, Inc.
+TOOL:	irun(64)	15.20-s051: Started on Oct 19, 2021 at 13:59:17 IST
+irun
+	uart_rx.v
+	uart_tx.v
+	uart_tb.v
+Recompiling... reason: file './uart_tb.v' is newer than expected.
+	expected: Tue Oct 19 13:59:01 2021
+	actual:   Tue Oct 19 13:59:16 2021
+file: uart_tb.v
+	module worklib.uart_tb:v
+		errors: 0, warnings: 0
+		Caching library 'worklib' ....... Done
+	Elaborating the design hierarchy:
+	Top level design units:
+		uart_tb
+	Building instance overlay tables: .................... Done
+	Generating native compiled code:
+		worklib.uart_tb:v <0x65e5fbdf>
+			streams:  12, words:  7697
+	Building instance specific data structures.
+	Loading native compiled code:     .................... Done
+	Design hierarchy summary:
+		                  Instances  Unique
+		Modules:                  3       3
+		Registers:               20      20
+		Scalar wires:             7       -
+		Vectored wires:           2       -
+		Always blocks:            4       4
+		Initial blocks:          18      18
+		Cont. assignments:        0       4
+		Pseudo assignments:       1       1
+		Simulation timescale:  10ps
+	Writing initial simulation snapshot: worklib.uart_tb:v
+Loading snapshot worklib.uart_tb:v .................... Done
+ncsim> source /tools/cadence/INCISIVE152/tools/inca/files/ncsimrc
+ncsim> run
+Test Passed - Correct Byte Received
+Simulation complete via $finish(1) at time 174350 NS + 1
+./uart_tb.v:95         $finish;
+ncsim> exit
+TOOL:	irun(64)	15.20-s051: Exiting on Oct 19, 2021 at 13:59:18 IST  (total: 00:00:01)
